@@ -5,9 +5,9 @@ This website will describe my process during the construction of my options tool
 ### About
 This tool was created with the intention of having one central tool allowing me to remind myself of different option strategies and to be able to visualise them in comparison with each other. 
 
-### Markdown
+#### Put and Call formulas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project started as all options projects do - coding the formula for a call and a put given by the Black-Scholes model.
 
 ```markdown
 Syntax highlighted code block
