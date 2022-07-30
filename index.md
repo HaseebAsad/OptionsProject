@@ -8,23 +8,10 @@ This tool was created with the intention of having one central tool allowing me 
 #### Put and Call formulas
 
 The project started as all options projects do - coding the formula for a call and a put given by the Black-Scholes model.
+Below is the code I used to code the call and puts - this was fairly simple. The greatest difficulties came in deciding how to price American-Style puts.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+placeholder for python code
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
