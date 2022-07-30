@@ -1,8 +1,9 @@
-## Welcome to my options tool.
+## Welcome to my options tool
 
 This website will describe my process during the construction of my options tool with the relevant source code at each stage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
+This tool was created with the intention of having one central tool allowing me to remind myself of different option strategies and to be able to visualise them in comparison with each other. 
 
 ### Markdown
 
